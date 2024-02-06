@@ -1,6 +1,6 @@
 {
   "name": "pagination-count-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Helper class for page and page item counting",
   "main": "index.js",
   "scripts": {
